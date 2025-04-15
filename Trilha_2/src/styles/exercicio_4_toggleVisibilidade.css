@@ -1,0 +1,24 @@
+.toggle-container {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.toggle-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  background-color: #6c63ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.toggle-container button:hover {
+  background-color: #554de5;
+}
+
+.mensagem {
+  font-size: 18px;
+  color: #333;
+}

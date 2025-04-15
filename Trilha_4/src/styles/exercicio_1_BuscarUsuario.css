@@ -1,0 +1,30 @@
+/* src/styles/exercicio_1_BuscarUsuario.css */
+.buscar-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.buscar-container input {
+  padding: 8px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.buscar-container button {
+  padding: 8px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.resultado {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.erro {
+  color: red;
+  margin-top: 15px;
+  font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.titulo-central {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.bloco-exercicio {
+  margin-bottom: 60px;
+}

@@ -1,0 +1,26 @@
+/* src/App.css */
+
+.app-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+.titulo-principal {
+  margin-bottom: 30px;
+}
+
+.exercicios-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.exercicio-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 30px;
+  width: 320px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
